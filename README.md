@@ -2,9 +2,6 @@
 ***
 Just minimalistic styled basic calculating React app
 
-<img src="https://theazimjon.netlify.app/assets/img/portfolio/calculator1.png" />
-
-
 ## Task
 We need to create simple calculator with Reactjs. 
 
